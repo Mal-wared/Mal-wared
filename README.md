@@ -1,4 +1,8 @@
-### Hi there 👋
+# Malwared in the flesh!
+- [x] Computer Engineering major
+- [x] Internship acquired
+- [ ] Functional brain
+- [ ] \(Optional) Social life
 
 <!--
 **Mal-wared/Mal-wared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
